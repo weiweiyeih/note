@@ -1,5 +1,7 @@
 # Docker is a platform that helps us build, run and share software.
 
+https://www.youtube.com/watch?v=-l7YocEQtA0
+
 <!-- TOC -->
 
 - [Docker is a platform that helps us build, run and share software.](#docker-is-a-platform-that-helps-us-build-run-and-share-software)
@@ -24,10 +26,6 @@
 - [Remove Images](#remove-images)
 
 <!-- /TOC -->
-
-https://www.docker.com/
-
-## Containers
 
 > With containers, we can work on the same environment from different computers.
 

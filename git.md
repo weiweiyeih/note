@@ -1,4 +1,4 @@
-To remove the current Git repository and initialize a new one, you can use the following commands in your terminal:
+### To remove the current Git repository and initialize a new one, you can use the following commands in your terminal:
 
 ```
 # Navigate to your project directory
@@ -28,7 +28,7 @@ git remote add origin https://github.com/...git
 git push -u origin main
 ```
 
-Make an update to GitHub
+### Make an update to GitHub
 
 ```
 git add .
@@ -36,10 +36,4 @@ git add .
 git commit -m "2nd commit"
 
 git push -u origin main
-```
-
-List conda-installed packages for `pip3 install -r requirements.txt`
-
-```
-pip list --format=freeze > requirements.txt
 ```
